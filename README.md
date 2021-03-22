@@ -1,7 +1,7 @@
 # Which_Degree
 Data analysis to pick he degree based on their job prospec
 
-For this data analysis project, it's been done with Jupyter Notebook s oit won't be on Github.
+For this data analysis project, it's been done with Jupyter Notebook so it won't be on Github.
 
 
 To get the highest Mid-career salary:
